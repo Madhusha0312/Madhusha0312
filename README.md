@@ -30,12 +30,12 @@ Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in 
 - Repository Link
   
 **Contact Information**
-📍 Location: Canada
-📧 Email: shahmadhusha@gmail.com
-🌐 LinkedIn: Madhusha Shah
-📂 GitHub: Madhusha0312
+- 📍 Location: Canada
+- 📧 Email: shahmadhusha@gmail.com
+- 🌐 LinkedIn: Madhusha Shah
+- 📂 GitHub: Madhusha0312
 
 **Fun Fact or Hobbies**
-📚 I love exploring data and transforming raw numbers into meaningful insights.
-🧘 Passionate about yoga and maintaining a healthy work-life balance.
-🌍 Avid traveler who enjoys discovering new cultures and cuisines.
+- 📚 I love exploring data and transforming raw numbers into meaningful insights.
+- 🧘 Passionate about yoga and maintaining a healthy work-life balance.
+- 🌍 Avid traveler who enjoys discovering new cultures and cuisines.

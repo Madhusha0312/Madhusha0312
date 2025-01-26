@@ -1,4 +1,5 @@
 **Introduction**
+
 Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in Power BI, SQL, Tableau, and Excel. With experience at CGI and Kotak Life Insurance, I specialize in creating data-driven solutions and interactive dashboards to optimize business processes. I’m constantly learning and exploring new technologies to enhance my skill set.
 
 **Skills**
@@ -13,7 +14,7 @@ Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in 
 - Analyzed productivity, work-life balance, and stress trends using Excel.
 - Repository Link 
 
-2.Fitness Insights Dashboard
+2. Fitness Insights Dashboard
 - Created an interactive Power BI dashboard to analyze workout metrics and health trends.
 - Repository Link
 

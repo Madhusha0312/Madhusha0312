@@ -12,23 +12,23 @@ Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in 
 **Featured Projects**
 1. Workplace Analytics Dashboard
 - Analyzed productivity, work-life balance, and stress trends using Excel.
-- Repository Link 
+- [Repository Link ](https://github.com/Madhusha0312/Workplace-analytics-dashboard)
 
 2. Fitness Insights Dashboard
 - Created an interactive Power BI dashboard to analyze workout metrics and health trends.
-- Repository Link
+- [Repository Link](https://github.com/Madhusha0312/Fitness-Insight-Dashboard)
 
 3. Customer Insights Dashboard
 - Power BI dashboard analyzing customer satisfaction, loyalty, and geographic trends.
-- Repository Link
+- [Repository Link](https://github.com/Madhusha0312/Customer-Insights-Dashboard)
 
 4. Coca-Cola USA Retailer Dashboard
 - Excel dashboard showcasing Coca-Cola sales performance and regional trends.
-- Repository Link
+- [Repository Link](https://github.com/Madhusha0312/Coca-Cola-USA-retailer-dashboard)
 
 5. Student Performance Dashboard
 - Power BI dashboard analyzing factors affecting student performance.
-- Repository Link
+- [Repository Link](https://github.com/Madhusha0312/Students-Performance-Dashboard)
   
 **Contact Information**
 - 📍 Location: Canada

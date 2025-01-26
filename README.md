@@ -5,7 +5,7 @@ Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in 
 **Skills**
 - Business Analysis: Agile, Requirement Gathering, Process Mapping, UAT
 - Data Visualization: Power BI, Tableau, Advanced Excel
-- Programming: SQL, Python, VBA
+- Programming: SQL, Python
 - Tools: Jira, Confluence, Microsoft Access
 - Soft Skills: Communication, Problem-Solving, Stakeholder Management
 

@@ -9,27 +9,6 @@ Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in 
 - Tools: Jira, Confluence, Microsoft Access
 - Soft Skills: Communication, Problem-Solving, Stakeholder Management
 
-**Featured Projects**
-1. Workplace Analytics Dashboard
-- Analyzed productivity, work-life balance, and stress trends using Excel.
-- [Repository Link ](https://github.com/Madhusha0312/Workplace-analytics-dashboard)
-
-2. Fitness Insights Dashboard
-- Created an interactive Power BI dashboard to analyze workout metrics and health trends.
-- [Repository Link](https://github.com/Madhusha0312/Fitness-Insight-Dashboard)
-
-3. Customer Insights Dashboard
-- Power BI dashboard analyzing customer satisfaction, loyalty, and geographic trends.
-- [Repository Link](https://github.com/Madhusha0312/Customer-Insights-Dashboard)
-
-4. Coca-Cola USA Retailer Dashboard
-- Excel dashboard showcasing Coca-Cola sales performance and regional trends.
-- [Repository Link](https://github.com/Madhusha0312/Coca-Cola-USA-retailer-dashboard)
-
-5. Student Performance Dashboard
-- Power BI dashboard analyzing factors affecting student performance.
-- [Repository Link](https://github.com/Madhusha0312/Students-Performance-Dashboard)
-
 **Fun Fact or Hobbies**
 - 📚 I love exploring data and transforming raw numbers into meaningful insights.
 - 🧘 Passionate about singing and maintaining a healthy work-life balance.

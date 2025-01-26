@@ -29,12 +29,6 @@ Hi, I’m Madhusha Jayesh Shah, a passionate Business Analyst with expertise in 
 5. Student Performance Dashboard
 - Power BI dashboard analyzing factors affecting student performance.
 - [Repository Link](https://github.com/Madhusha0312/Students-Performance-Dashboard)
-  
-**Contact Information**
-- 📍 Location: Canada
-- 📧 Email: shahmadhusha@gmail.com
-- 🌐 LinkedIn: Madhusha Shah
-- 📂 GitHub: Madhusha0312
 
 **Fun Fact or Hobbies**
 - 📚 I love exploring data and transforming raw numbers into meaningful insights.
